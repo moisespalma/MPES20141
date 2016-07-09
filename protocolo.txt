@@ -5,7 +5,7 @@
 metodologias ágeis na elicitação dos requisitos?
 
 1.2 - Quais fatores podemos relacionar sobre o insucesso na adoção de
-metodologias ágeis em decorrência das falhas dos requisitos de software?
+técnicas ágeis no levantamento de requisitos para garantir a aderência ao CMMi?
 
 
 1.3 - Como podemos medir o sucesso e o cumprimento das boas práticas
@@ -52,11 +52,11 @@ Conferências das referências:
 3. Termos de Busca
 -------------------
 
-Palavras-chave					Sinônimos
----------------					---------
-CMMI							capability maturity model, CMM
+Palavras-chave				Sinônimos
+---------------				---------
+CMMI					capability maturity model, CMM
 
-agile							agility, lightweight, scrum, extreme
+agile					agility, lightweight, scrum, extreme
 programming, XP, dynamic system development, DSDM, crystal clear, crystal
 orange, crystal red, crystal blue, feature driven development, FDD, lean
 software development, adaptive software development, ASD, Kanban test driven
