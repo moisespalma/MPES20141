@@ -1,0 +1,111 @@
+1. Questões de pesquisa:
+------------------------
+
+1.1 - Como o resultado das pesquisas sintetizaram o impacto do uso de
+metodologias ágeis na elicitação dos requisitos?
+
+1.2 - Quais fatores podemos relacionar sobre o insucesso na adoção de
+técnicas ágeis no levantamento de requisitos para garantir a aderência ao CMMi?
+
+
+1.3 - Como podemos medir o sucesso e o cumprimento das boas práticas
+recomendadas no modelo CMMi com uso de requisitos ágeis?
+
+	Intervenção: Práticas ágeis e levantamento de requisitos
+
+	Controle: Artigos de survey sugeridos pelo orientador, SLR similares anteriores
+
+	População: Projetos que tratem CMMi e Requisitos Ágeis.
+
+	Resultados: Visão abrangente dos resultados do uso de práticas e metodologia ágil 
+	para avaliar aderência aos KPA RD e REQM em cenários sobre CMMi.
+
+	Aplicação: Todos os pesquisadores da área de metodologias ágeis, que desenvolvem 
+	pesquisas na área, bem como para a industria e mercado que procura aperfeiçoamento 
+	da prática no levantamento de requisitos garantindo um nível de maturidade seguindo 
+	o CMMi.
+
+2. Seleção de Fonte de Dados:
+-----------------------------
+
+- Scopus; nok (Fernando) - ACM Digital Library; ok - Compendex; nok - IEEE
+Xplore; ok - ISI Web of Science; nok - ScienceDirect; ok - SpringerLink;  ok
+(Fernando) - Wiley Inter Science Journal Finder; ok - Google Scholar (avaliar) -
+Principais eventos de agile (buscas manuais) busca nos anais - Agile Conference
+- XP Conference - ICSE (indexado pelo IEEE) - PROFES (Indexado pela Springer) -
+SPICE
+
+* Rodar no google scholar * Pesquisar evento exclusivo de requisitos * Journal
+of requirements etc ... pesquisar sobre revisões sistemáticas * Pesquisar a
+lista de eventos e periódicos do qualis da CAPES
+
+
+http://www.cin.ufpe.br/~imprensa/QualisPeriodicoCienciaDaComputacao.pdf
+
+Buscar os eventos de Requisitos aqui
+http://www.cin.ufpe.br/~imprensa/QualisConferenciaCienciaDaComputacao.pdf
+
+Idioma: Inglês
+
+Conferências das referências:
+
+3. Termos de Busca
+-------------------
+
+Palavras-chave				Sinônimos
+---------------				---------
+CMMI					capability maturity model, CMM
+
+agile					agility, lightweight, scrum, extreme
+programming, XP, dynamic system development, DSDM, crystal clear, crystal
+orange, crystal red, crystal blue, feature driven development, FDD, lean
+software development, adaptive software development, ASD, Kanban test driven
+development, TDD, BDD
+
+
+Requirements Engineering 		requirements elicitation, Requirements
+analysis, Requirements inception, requirements specification, system modeling,
+Requirements validation, requirements management, DDD, Domain Driven Design,
+MDD, Model Driven Design,
+
+Pensar na justificativa para os últimos: Novas técnicas que aproximam a pesquisa
+da abordagem ágil
+
+
+Média de retorno: até 200 por engine
+
+Filtra na análise de qualidade e critérios de inclusão e exclusão
+
+Salvar os resultados das buscas
+
+Definir o período da busca usar ano completo (2014) pegar desde o início!
+
+4. Critérios de Inclusão e Exclusão
+-----------------------------------
+
+Exclusão:
+
+4.1 Estudos cujo foco não fosse CMMI e desenvolvimento ágil;
+
+4.2 Estudos que focam em técnicas simples ou práticas, como programação em pares, testes 
+    unitários ou refatoração, aplicadas a um processo não ágil, como Processo Unificado e 
+    outros;  
+
+4.3 Estudos que não tratassem o tema de requisitos; 
+
+4.4 Editoriais, prefácios, resumos de artigos, entrevistas, notícias, análises (reviews), 
+    correspondência, discussões, comentários, cartas de leitor, resumos de tutoriais, 
+    workshops, painéis e sessões de posters.
+
+Inclusão:    
+
+4.5 Estudos que abordem o tema de Requisitos, práticas e técnicas ágeis e CMMi. 
+    
+-  Fazer o mapeamento das práticas ágeis com a area de requisitos do CMMi para ser usado 
+na síntese, como primeiro esboço de estratégia/ abordagem de como atender o cmmi com agil
+
+5. Extração de dados
+---------------------
+
+6. Síntese
+-----------
